@@ -1,0 +1,5 @@
+/Users/didi-macbook/coreapp
+--output-path=obj/Release/netcoreapp2.0/
+--application-name=coreapp
+--content-root=/Users/didi-macbook/coreapp
+--file=

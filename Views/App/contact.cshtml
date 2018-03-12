@@ -1,0 +1,13 @@
+@model ContactViewModel
+
+<h1>Contact Page</h1>
+
+<form method="post" asp-controller="app" asp-action="Contact">
+    <label asp-for="Param"></label>
+    <input type="text" asp-for="Param" />
+    <label asp-for="Name"></label>
+    <input type="text" asp-for="Name" />
+
+    <br>
+    <input type="submit" value="Send"/>
+</form>

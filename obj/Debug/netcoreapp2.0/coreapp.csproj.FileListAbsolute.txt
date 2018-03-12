@@ -1,0 +1,10 @@
+/Users/didi-macbook/coreapp/bin/Debug/netcoreapp2.0/coreapp.deps.json
+/Users/didi-macbook/coreapp/bin/Debug/netcoreapp2.0/coreapp.runtimeconfig.json
+/Users/didi-macbook/coreapp/bin/Debug/netcoreapp2.0/coreapp.runtimeconfig.dev.json
+/Users/didi-macbook/coreapp/bin/Debug/netcoreapp2.0/coreapp.dll
+/Users/didi-macbook/coreapp/bin/Debug/netcoreapp2.0/coreapp.pdb
+/Users/didi-macbook/coreapp/obj/Debug/netcoreapp2.0/coreapp.csproj.CoreCompileInputs.cache
+/Users/didi-macbook/coreapp/obj/Debug/netcoreapp2.0/coreapp.AssemblyInfoInputs.cache
+/Users/didi-macbook/coreapp/obj/Debug/netcoreapp2.0/coreapp.AssemblyInfo.cs
+/Users/didi-macbook/coreapp/obj/Debug/netcoreapp2.0/coreapp.dll
+/Users/didi-macbook/coreapp/obj/Debug/netcoreapp2.0/coreapp.pdb
