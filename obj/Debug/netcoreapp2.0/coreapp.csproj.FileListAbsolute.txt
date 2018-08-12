@@ -8,3 +8,4 @@
 /Users/didi-macbook/coreapp/obj/Debug/netcoreapp2.0/coreapp.AssemblyInfo.cs
 /Users/didi-macbook/coreapp/obj/Debug/netcoreapp2.0/coreapp.dll
 /Users/didi-macbook/coreapp/obj/Debug/netcoreapp2.0/coreapp.pdb
+/Users/didi-macbook/coreapp/obj/Debug/netcoreapp2.0/coreapp.csprojAssemblyReference.cache
